@@ -1,0 +1,15 @@
+c:\users\emiliano\documents\visual studio 2012\Projects\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+c:\users\emiliano\documents\visual studio 2012\Projects\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+c:\users\emiliano\documents\visual studio 2012\Projects\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+c:\users\emiliano\documents\visual studio 2012\Projects\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
+c:\users\emiliano\documents\visual studio 2012\Projects\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+c:\users\emiliano\documents\visual studio 2012\Projects\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
+E:\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+E:\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+E:\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano.1A\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano.1A\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano.1A\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano.1A\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano.1A\Ejercicio02\Ejercicio02\bin\Debug\Ejercicio02.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano.1A\Ejercicio02\Ejercicio02\obj\Debug\Ejercicio02.csprojResolveAssemblyReference.cache
