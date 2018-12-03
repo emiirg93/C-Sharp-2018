@@ -1,0 +1,4 @@
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 14\bin\Debug\Ejercicio 14.exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 14\bin\Debug\Ejercicio 14.pdb
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 14\obj\Debug\Ejercicio 14.exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 14\obj\Debug\Ejercicio 14.pdb

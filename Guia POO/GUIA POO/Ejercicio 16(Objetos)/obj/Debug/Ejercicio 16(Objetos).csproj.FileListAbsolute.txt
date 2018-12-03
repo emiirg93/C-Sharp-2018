@@ -1,0 +1,4 @@
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 16(Objetos)\bin\Debug\Ejercicio 16(Objetos).exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 16(Objetos)\bin\Debug\Ejercicio 16(Objetos).pdb
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 16(Objetos)\obj\Debug\Ejercicio 16(Objetos).exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 16(Objetos)\obj\Debug\Ejercicio 16(Objetos).pdb

@@ -1,0 +1,5 @@
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 13\bin\Debug\Ejercicio 13.exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 13\bin\Debug\Ejercicio 13.pdb
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 13\obj\Debug\Ejercicio 13.exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 13\obj\Debug\Ejercicio 13.pdb
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 13\obj\Debug\Ejercicio 13.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\bin\Debug\Ejercicio 25 (WindowsForm).exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\bin\Debug\Ejercicio 25 (WindowsForm).pdb
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\obj\Debug\Ejercicio 25 (WindowsForm).csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\obj\Debug\Ejercicio_25__WindowsForm_.Form1.resources
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\obj\Debug\Ejercicio_25__WindowsForm_.Properties.Resources.resources
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\obj\Debug\Ejercicio 25 (WindowsForm).csproj.GenerateResource.Cache
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\obj\Debug\Ejercicio 25 (WindowsForm).exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\obj\Debug\Ejercicio 25 (WindowsForm).pdb
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\bin\Debug\Ejercicio 22.exe
+C:\Users\Emiliano\Desktop\Visual Studio Facultad\Guia POO\GUIA POO\Ejercicio 25 (WindowsForm)\bin\Debug\Ejercicio 22.pdb
