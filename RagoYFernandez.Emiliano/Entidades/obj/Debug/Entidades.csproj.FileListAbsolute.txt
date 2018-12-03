@@ -1,0 +1,4 @@
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\Entidades\bin\Debug\Entidades.dll
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\Entidades\obj\Debug\Entidades.dll
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\Entidades\obj\Debug\Entidades.pdb

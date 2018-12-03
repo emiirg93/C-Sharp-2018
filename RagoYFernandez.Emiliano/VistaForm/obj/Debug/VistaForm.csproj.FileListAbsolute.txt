@@ -1,0 +1,10 @@
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.Cache
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\obj\Debug\VistaForm.csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\obj\Debug\VistaForm.Form1.resources
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaForm\bin\Debug\Entidades.pdb

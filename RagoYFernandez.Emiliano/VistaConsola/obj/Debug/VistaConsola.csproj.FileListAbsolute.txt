@@ -1,0 +1,9 @@
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\obj\Debug\VistaConsola.csprojResolveAssemblyReference.cache
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\bin\Debug\VistaForm.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\bin\Debug\VistaForm.pdb
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Emiliano\Desktop\RagoYFernandez.Emiliano\VistaConsola\obj\Debug\VistaConsola.pdb
